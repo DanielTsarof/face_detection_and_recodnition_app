@@ -1,0 +1,5 @@
+build/
+result/*mp4
+*.pdf
+data/
+.vscode/
